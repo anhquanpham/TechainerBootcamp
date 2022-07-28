@@ -1,0 +1,44 @@
+[
+    {
+        "ID": "V2812", "Name": "Pham A", "Age": 18, 
+        "Gender": "nam", "DOB": "28/12/2004",
+        "Math": 10, "Phys": 9,
+        "Chem": 8, "Eng": 7,
+        "Class": "12A" 
+    },
+    {
+        "ID": "V2503", "Name": "Nguyen B", "Age": 18, 
+        "Gender": "nam", "DOB": "25/03/2004",
+        "Math": 7, "Phys": 8,
+        "Chem": 9, "Eng": 10,
+        "Class": "12A" 
+    },
+    {
+        "ID": "V1103", "Name": "Tran C", "Age": 18, 
+        "Gender": "nu", "DOB": "11/03/2004",
+        "Math": 5, "Phys": 6,
+        "Chem": 7, "Eng": 8,
+        "Class": "12A" 
+    },
+    {
+        "ID": "V2204", "Name": "Luong D", "Age": 18, 
+        "Gender": "nu", "DOB": "22/04/2004",
+        "Math": 3, "Phys": 8,
+        "Chem": 5, "Eng": 7,
+        "Class": "12B" 
+    },
+    {
+        "ID": "V1111", "Name": "Chau E", "Age": 18, 
+        "Gender": "nam", "DOB": "11/11/2004",
+        "Math": 3, "Phys": 4,
+        "Chem": 7, "Eng": 5,
+        "Class": "12B" 
+    },
+    {
+        "ID": "V1002", "Name": "Phan F", "Age": 18, 
+        "Gender": "nam", "DOB": "10/02/2004",
+        "Math": 10, "Phys": 2,
+        "Chem": 10, "Eng": 10,
+        "Class": "12B" 
+    }
+]
